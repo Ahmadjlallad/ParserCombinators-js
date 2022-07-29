@@ -1,0 +1,25 @@
+{
+  "name": "parsercombinators",
+  "version": "1.0.0",
+  "description": "- using js/ts\r - following (Parser Combinators From Scratch)[https://www.youtube.com/playlist?list=PLP29wDx6QmW5yfO1LAgO8kU3aQEj8SIrU]",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./out -w",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmadjlallad/ParserCombinators-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmadjlallad/ParserCombinators-js/issues"
+  },
+  "homepage": "https://github.com/Ahmadjlallad/ParserCombinators-js#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "type": "module"
+}
